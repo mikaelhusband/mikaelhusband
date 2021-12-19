@@ -18,6 +18,13 @@ My interests include:
 <br />
 <br />
 
+<a href="https://powerbi.microsoft.com/en-us/">
+<img align="left" alt="PowerBI" width="22px" src="https://github.com/mikaelhusband/mikaelhusband/blob/master/pbi-icon.png" />
+</a>
+
+<br />
+<br />
+
 Thank you 
 
 
