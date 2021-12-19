@@ -28,13 +28,11 @@ There's not much here at the moment but I will add content periodically.
 <img align="left" alt="PowerBI" width="22px" src="https://github.com/mikaelhusband/mikaelhusband/blob/master/pbi-icon.png" />
 </a>
 
-
-
-
+<br />
 <br />
 <br />
 
-Thank you 
+Thank you for viewing!
 
 
 
