@@ -12,10 +12,9 @@ There's not much here at the moment but I will add content periodically.
 
 <br />
 <br />
+<br />
 
 **My data science-related toolkit includes:**
-
-<br />
 
 <a href="https://www.r-project.org/">
 <img align="left" alt="R" width="22px" src="https://github.com/mikaelhusband/mikaelhusband/blob/master/r-icon.png" />
