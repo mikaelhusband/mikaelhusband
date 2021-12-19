@@ -4,10 +4,10 @@ I'm Mikael and I'm a data scientist in-training. This is my GitHub repository th
 
 There's not much here at the moment but I will add content periodically.
 
-**Contact:**
+**Contact Details:**
 
 <a href="https://www.linkedin.com/in/mikael-husband-999763119/">
-<img align="left" alt="Mikael Husband | Twitter" width="22px" src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGFj8dEA5R%2ByCsSb2ApWZLA%3D%3D" />
+<img align="left" alt="Mikael Husband | Twitter" width="22px" src="https://github.com/mikaelhusband/mikaelhusband/blob/master/linked-in-icon.png" />
 </a>
 
 **My data science-related toolkit includes:**
