@@ -8,10 +8,13 @@ My interests include:
 <img align="left" alt="R" width="22px" src="https://github.com/mikaelhusband/mikaelhusband/blob/master/r-icon.png" />
 </a>
 
+<br />
+
 <a href="https://www.microsoft.com/en-gb/sql-server/sql-server-2019">
 <img align="left" alt="SQL" width="22px" src="https://github.com/mikaelhusband/mikaelhusband/blob/master/sql-file-format.png" />
 </a>
 
+<br />
 
 Thank you 
 
