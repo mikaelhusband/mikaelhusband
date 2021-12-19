@@ -1,4 +1,4 @@
-### Hello Everyone!##
+### Hello Everyone!
 
 I'm Mikael and I'm a data scientist in-training. This is my GitHub repository that I will use to host some of the content I am working on. 
 
@@ -15,7 +15,6 @@ There's not much here at the moment but I will add content periodically.
 
 **My data science-related toolkit includes:**
 
-<br />
 <br />
 
 <a href="https://www.r-project.org/">
